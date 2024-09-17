@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66e92c26ab302c5f2463ffa7_ae38314d-f5ae-422e-9679-e6eddbc21d2d",
-  "id": "Page1__$JSModule11$_JSModule1.myFun11234",
+  "id": "Page1__$JSModule11$_JSModule1.myFun112345",
   "isPublic": true,
   "moduleInstanceId": "Page1_JSModule11",
   "pluginId": "js-plugin",
@@ -17,8 +17,8 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$JSModule11$_JSModule1.myFun11234",
-    "name": "myFun11234",
+    "fullyQualifiedName": "_$JSModule11$_JSModule1.myFun112345",
+    "name": "myFun112345",
     "pageId": "Page1",
     "userSetOnLoad": false
   }

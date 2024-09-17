@@ -7,7 +7,7 @@
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
     "inputs": {
-      "myFun1123": "[]",
+      "myFun112345": "[]",
       "myFun2": "[]"
     },
     "moduleInputs": {
@@ -22,12 +22,12 @@
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
         "id": "wipdtouidv",
-        "label": "myFun1123",
+        "label": "myFun112345",
         "propertyName": "inputs.myFun1"
       }
     },
     "name": "JSModule11",
     "pageId": "Page1",
-    "version": "0.0.12"
+    "version": "0.0.15"
   }
 }
