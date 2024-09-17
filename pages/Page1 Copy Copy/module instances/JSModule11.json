@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "66e92c26ab302c5f2463ffa7_626c3716-47e5-4e9a-b75a-a7569345586d",
-  "id": "Page1_JSModule11Copy",
+  "gitSyncId": "66e92c26ab302c5f2463ffa7_e5ff9fd4-db89-46f6-a4ce-c101cdc209c6",
+  "id": "Page1 Copy Copy_JSModule11",
   "moduleUUID": "ed229d2a-da47-404d-8a43-98d7b76494f9",
   "packageUUID": "0a7d8857-f707-407c-84bb-9a3823abc85b",
   "type": "JS_MODULE",
@@ -26,8 +26,8 @@
         "propertyName": "inputs.myFun1"
       }
     },
-    "name": "JSModule11Copy",
-    "pageId": "Page1",
+    "name": "JSModule11",
+    "pageId": "Page1 Copy Copy",
     "version": "0.0.18"
   }
 }
